@@ -1,5 +1,6 @@
 **HELLO, THIS IS MY CV**
 
+I am Artemiy and I am studying *javascript*
 
 
 
