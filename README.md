@@ -1,1 +1,1 @@
-# rsschool-cv
+https://artalexmir.github.io/rsschool-cv-html
